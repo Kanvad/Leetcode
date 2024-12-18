@@ -1,9 +1,9 @@
-<h2><a href="https://leetcode.com/problems/fizz-buzz/">412. Fizz Buzz</a></h2><h3>Easy</h3><hr><div><p>Given an integer <code>n</code>, return <em>a string array </em><code>answer</code><em> (<strong>1-indexed</strong>) where</em>:</p>
+<h2><a href="https://leetcode.com/problems/fizz-buzz">412. Fizz Buzz</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em>a string array </em><code>answer</code><em> (<strong>1-indexed</strong>) where</em>:</p>
 
 <ul>
-	<li><code>answer[i] == "FizzBuzz"</code> if <code>i</code> is divisible by <code>3</code> and <code>5</code>.</li>
-	<li><code>answer[i] == "Fizz"</code> if <code>i</code> is divisible by <code>3</code>.</li>
-	<li><code>answer[i] == "Buzz"</code> if <code>i</code> is divisible by <code>5</code>.</li>
+	<li><code>answer[i] == &quot;FizzBuzz&quot;</code> if <code>i</code> is divisible by <code>3</code> and <code>5</code>.</li>
+	<li><code>answer[i] == &quot;Fizz&quot;</code> if <code>i</code> is divisible by <code>3</code>.</li>
+	<li><code>answer[i] == &quot;Buzz&quot;</code> if <code>i</code> is divisible by <code>5</code>.</li>
 	<li><code>answer[i] == i</code> (as a string) if none of the above conditions are true.</li>
 </ul>
 
@@ -24,4 +24,3 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
 </ul>
-</div>
