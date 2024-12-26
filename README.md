@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanvad/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Kanvad/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kanvad/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kanvad/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Kanvad/Leetcode/tree/master/0412-fizz-buzz) |
 ## String
