@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/Kanvad/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Kanvad/Leetcode/tree/master/0066-plus-one) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kanvad/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
